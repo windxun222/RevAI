@@ -1,0 +1,4 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+body { @apply bg-gray-950 text-gray-100 antialiased; font-family: 'Inter',system-ui,-apple-system,sans-serif; }
+::-webkit-scrollbar { width: 6px; height: 6px; } ::-webkit-scrollbar-track { @apply bg-gray-900; } ::-webkit-scrollbar-thumb { @apply bg-gray-700 rounded-full; } ::-webkit-scrollbar-thumb:hover { @apply bg-gray-600; }
+.finding-critical { @apply border-l-4 border-red-500; } .finding-warning { @apply border-l-4 border-amber-500; } .finding-info { @apply border-l-4 border-blue-500; }
