@@ -2,11 +2,7 @@
 
 [English](#english) | [中文](#chinese)
 
----
 
-<img width="100%" alt="RevAI" src="https://github.com/user-attachments/assets/89b0167b-429c-4f02-b4c0-26fc7cc43d56" />
-
----
 
 ## <a id="english"></a>English
 
